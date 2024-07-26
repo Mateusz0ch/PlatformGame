@@ -1,0 +1,3 @@
+/home/mateusz/Coding/PlatformGame/build/CMakeFiles/sfml-app.dir
+/home/mateusz/Coding/PlatformGame/build/CMakeFiles/edit_cache.dir
+/home/mateusz/Coding/PlatformGame/build/CMakeFiles/rebuild_cache.dir
